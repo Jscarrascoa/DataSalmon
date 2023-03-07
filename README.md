@@ -1,4 +1,4 @@
-# Análisis sobre varios tipos de Salmon
+# Análisis sobre varios tipos de Salmón
 Base de datos que contiene: Edad, sexo y talla, recopilados en salmones de cosecha y salvajes, en un proyecto desde 1922 hasta 2017 de investigación en Alaska.
 
 Incluye datos sobre cinco especies de salmón: chinook, chum, coho, rosado y sockeye. Las estimaciones de edad se realizaron examinando escamas o estructuras óseas (por ejemplo, otolitos - huesos del oído). Se quitaron las escamas del costado del pescado; generalmente el lado izquierdo por encima de la línea lateral. Luego, las escamas o estructuras óseas se montaban en tarjetas engomadas y se presionaban sobre acetato para hacer una impresión. Se contó el número de anillos de agua dulce y salada (es decir, anillos) para estimar las edades de agua dulce y salada en años. El sexo de los peces se determinó examinando la morfología externa (por ejemplo, la forma de la cabeza y el vientre) o el órgano sexual interno. La longitud se midió en milímetros, generalmente desde la mitad del ojo hasta la horquilla de la cola.
